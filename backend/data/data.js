@@ -18,7 +18,7 @@ const chats = [
         isGroupChat: false,
         users: [
             {
-                name: 'Shivam Kumar1',
+                name: 'Shivam Kumar12',
                 email: 'life.shivam2394@gmail.com',
             },
             {
@@ -33,7 +33,7 @@ const chats = [
         isGroupChat: false,
         users: [
             {
-                name: 'Shivam Kumar1',
+                name: 'Shivam Kumar13',
                 email: 'life.shivam2394@gmail.com',
             },
             {
